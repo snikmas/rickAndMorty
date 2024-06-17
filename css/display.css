@@ -7,6 +7,10 @@
   font-size: 18rem;
   letter-spacing: 0.2rem;
   text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  
 }
 
 .grid-display {
@@ -36,12 +40,15 @@ ul li {
 .press {
   padding:0.9rem 2rem;
   font-size: 3rem;
-  margin:0rem
+  margin:4rem;
+  align-self: center;
+
 }
 
 .character {
-  top: -2rem;
-  display: block;
+  height:100%;
   width: 100%;
   object-fit: cover;
+
+
 }

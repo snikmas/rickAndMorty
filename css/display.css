@@ -1,0 +1,47 @@
+.display {
+  background-color: RGB(4, 60, 110, 0.4);
+  border:0.5rem solid RGB(96, 168, 95);
+  border-radius: 20%;
+  margin:1rem;
+  padding:0rem;
+  font-size: 18rem;
+  letter-spacing: 0.2rem;
+  text-align: center;
+}
+
+.grid-display {
+/* grid */
+  text-align: left;
+  display: none;
+  margin:2rem 15rem 0rem 15rem;
+  grid-template-columns: 25% 50%;
+  column-gap: 3rem;
+}
+
+
+ul li {
+  list-style:none;
+  margin:0;
+  
+}
+
+.properties {
+  background-color: RGB(96, 168, 95, 0.2);
+  border: rgba(1, 2, 1, 2) 3px solid;
+  padding: 2rem 3rem;
+  height:30rem;
+}
+
+
+.press {
+  padding:0.9rem 2rem;
+  font-size: 3rem;
+  margin:0rem
+}
+
+.character {
+  top: -2rem;
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}

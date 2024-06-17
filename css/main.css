@@ -1,0 +1,19 @@
+body {
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:#42B4CA;
+  text-shadow: 0.1rem 0.1rem 0.3rem #BFDE42 ;
+}
+
+header {
+  padding:1rem;
+  text-align: center;
+}
+.logo {
+  width:25rem;
+}
+h5 {
+  font-size: 4rem;
+  margin:2rem;
+}

@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'get_schwifty';
+  src: url(font/get_schwifty.ttf) format('woff2');
+}
+
+@font-face {
+  font-family: 'Adult Swim';
+  src: url(font/adult-swim.ttf) format('woff2');
+}
+
+
+*, html, body {
+  font-family: "Adult Swim";
+  margin: 0;
+  padding:0;
+  font-size: 62.5%;
+
+}

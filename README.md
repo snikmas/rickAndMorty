@@ -1,3 +1,3 @@
-a task from dev100 course.
+![image](https://github.com/snikmas/rickAndMorty/assets/110670321/00ad8ee0-dd61-4120-a5f6-6d62d64619fc)
 
-for now (18/06/24), the project shows you a random character + info 
+RickAndMorty, randomize characters' info
